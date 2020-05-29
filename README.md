@@ -1,10 +1,12 @@
 # AmazonGC
 
+```
                    Amount
 Source                   
 Branded Surveys     70.24
 Microsoft Rewards  280.00
 Swagbucks          120.00
+```
 
 $470.24
 
